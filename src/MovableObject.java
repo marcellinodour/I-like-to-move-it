@@ -32,4 +32,10 @@ public interface MovableObject {
 	* @return double time
 	*/
 	public void brake();
+	
+	/** 
+	* Method to String
+	* @return double time
+	*/
+	public String toString();
 }
